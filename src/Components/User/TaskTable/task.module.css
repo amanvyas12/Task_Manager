@@ -1,0 +1,21 @@
+.task_data{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.task_table{
+    width: 76%;
+    margin-left: 1rem;
+}
+.task_board{
+    background: white;
+    width: 20%;
+    border-radius: 5px;
+    margin-right: 1rem;
+}
+.add_subtasks{
+    padding: 8px;
+    background: #3a2b58;
+    font-size: 1rem;
+}
+

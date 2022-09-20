@@ -1,0 +1,10 @@
+.admin{
+    position: absolute;
+    left: 13rem;
+} 
+h3{
+    color: white;
+}
+.logout:hover{
+    background: grey;
+}

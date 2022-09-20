@@ -1,0 +1,7 @@
+.assign_subtask{
+    width: 10rem;
+    border-radius: 5px;
+}
+.assign_subtask:hover{
+    background-color: #3a2b58;
+}
